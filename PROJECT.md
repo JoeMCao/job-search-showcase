@@ -8,7 +8,7 @@ job-search-showcase, Job Search Showcase
 
 # Purpose
 
-Show how an assistant can take a role from discovery to application review using a fictional candidate and posting.
+Give candidates a reusable Codex workflow for finding roles, preparing résumés, and submitting applications they approve.
 
 # Area
 
@@ -16,11 +16,11 @@ Career
 
 # In Scope
 
-Public documentation and fictional examples of role selection, evidence-backed résumé tailoring, and application preparation.
+A public Codex skill, fictional walkthrough, recurring job search, résumé PDF generation and review, and candidate-approved application submission.
 
 # Out of Scope
 
-The private job-search system, live candidate or employer records, and application submission.
+Jose's private tracker and credentials, publishing candidates' records, and unattended application submission.
 
 # Status
 
